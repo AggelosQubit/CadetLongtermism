@@ -1,7 +1,6 @@
 # 🇫🇷 Gaullo-Cadétisme
 
-**Une doctrine géopolitique pour une France autonome, une Europe forte et un monde juste.**  
-Projet initié par Dainty CADET.
+**Une doctrine géopolitique pour une France autonome, une Europe forte et un monde juste.** 
 
 ---
 
@@ -33,7 +32,7 @@ Ce projet propose un cap clair pour une refondation de la politique étrangère 
 ---
 
 ## 🧠 À propos de l’auteur
-
+> *"L’union historique entre la France et Haïti incarne l’un des symboles les plus puissants pour faire émerger un monde réconcilié, où la liberté et l’égalité ne sont plus des slogans, mais des vérités vécues avec sincérité"*  
 > *"La France ne peut se contenter d’être un suiveur stratégique. Elle doit redevenir un phare, d’abord par l’exemple."*  
 > — **Dainty CADET**
 
