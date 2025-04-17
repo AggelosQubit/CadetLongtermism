@@ -79,6 +79,10 @@
 </head>
 
 <body>
+    <audio id="bg-audio" muted autoplay loop style="display: none">
+        <source src="sounds/AC1SuperSlowed.mp3" type="audio/mpeg">
+    </audio>
+
     <header>
 
         <div class="">
@@ -151,6 +155,18 @@
     <footer>
         <p>&copy; 2025 Doctrine Gaullo-Cadétiste</p>
     </footer>
+    <script>
+        window.addEventListener('click', () => {
+            console.log("IN AUDIO UPING")
+            const audio = document.getElementById('bg-audio');
+            if (audio.muted) {
+                audio.muted = false;
+                audio.volume = 0.01;
+                audio.play();
+            }
+        });
+    </script>
+
 </body>
 
 </html>
